@@ -4,7 +4,7 @@ public class anca {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Application Software Engineer");
+		System.out.println("anca");
 
 	}
 
